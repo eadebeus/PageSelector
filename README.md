@@ -11,7 +11,7 @@ through selected pages in a PDF file. For example: <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;PageRanges = "1-10,30-46,50"  <br/>
 &nbsp;&nbsp;}; <br/>
 will produce an iterator that will return the pages in a PDF file that are <br/>
-even, in the range "1-10,30-46,50", and have bookmarks that contain the <br/>
+(a) even, (b) in the range "1-10,30-46,50", and (c) have bookmarks that contain the <br/>
 text "media". <br/>
 
 
